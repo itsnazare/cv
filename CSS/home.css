@@ -297,6 +297,7 @@ body{
     transition: .5s ease all;
 }
 #friend a:hover{
+    color: white;
     box-shadow: 20px 2px 2px 2px rgb(9, 255, 0);
     transform: translateY(-10px);
 }
